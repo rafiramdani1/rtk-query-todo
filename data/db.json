@@ -1,0 +1,22 @@
+{
+  "todos": [
+    {
+      "userId": 1,
+      "title": "learn rtk query",
+      "completed": true,
+      "id": 4
+    },
+    {
+      "userId": 1,
+      "title": "learn react js",
+      "completed": true,
+      "id": 5
+    },
+    {
+      "userId": 1,
+      "title": "Learn next js",
+      "completed": false,
+      "id": 6
+    }
+  ]
+}
